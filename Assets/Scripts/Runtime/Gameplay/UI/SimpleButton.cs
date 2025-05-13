@@ -1,10 +1,10 @@
 ﻿using Core.Services.Audio;
 using Runtime.Gameplay.Services.Audio;
-using UnityEditor.Events;
 using UnityEngine;
 using UnityEngine.UI;
 using Zenject;
 #if UNITY_EDITOR
+using UnityEditor.Events;
 #endif
 
 namespace Runtime.Gameplay.UI
