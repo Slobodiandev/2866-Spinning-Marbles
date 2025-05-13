@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08bae3bfe4f3f4e47a698868411f30df, type: 3}
+  m_Name: LevelClearConditionConfig
+  m_EditorClassIdentifier: 
+  OneStarProgressRequirement: 0.4
+  TwoStarProgressRequirement: 0.7
+  ThreeStarProgressRequirement: 0.99

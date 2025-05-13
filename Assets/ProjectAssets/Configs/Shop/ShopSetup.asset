@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa6a8864264d49d6b6b6eaf235d55c0e, type: 3}
+  m_Name: ShopSetup
+  m_EditorClassIdentifier: Runtime:Runtime.Application.ShopSystem:ShopSetup
+  _shopItemStateConfigs:
+  - {fileID: 11400000, guid: d35d9aefaa60fa54e89c547f77056927, type: 2}
+  - {fileID: 11400000, guid: c5df26650f99cac4f864eecde5b8a074, type: 2}
+  - {fileID: 11400000, guid: 7d15597306a296e45a75697d5f2484c4, type: 2}
+  _shopItems:
+  - {fileID: 11400000, guid: 5d681a3c8fdd8d447812af90b2d82cdd, type: 2}
+  - {fileID: 11400000, guid: b5f2f4896234ff04b830c3bec142754d, type: 2}
+  - {fileID: 11400000, guid: 5d27b71fe28f0fa448a9aa68bf004186, type: 2}
+  - {fileID: 11400000, guid: 2ebb926e6a2ea514f99683e668801110, type: 2}
+  - {fileID: 11400000, guid: 77ed049982ded0940812920fe59e698f, type: 2}
+  - {fileID: 11400000, guid: 755f3fa958648974eb796219c93f13f4, type: 2}
+  - {fileID: 11400000, guid: 3046565d5581bb049a617856f426e242, type: 2}
+  - {fileID: 11400000, guid: ad0754fe04180154a804e74d5b029f97, type: 2}
+  - {fileID: 11400000, guid: a41030c39cbda0d4b8d07d17386085e7, type: 2}
+  - {fileID: 11400000, guid: 990564cbdbf6963449c245745d54fa20, type: 2}
+  - {fileID: 11400000, guid: 7efbfd4b592f82040930bd9322abaad4, type: 2}
+  - {fileID: 11400000, guid: e51a2720cbdd00d4190c9339f96c2b07, type: 2}
+  - {fileID: 11400000, guid: 511ee3c0dd2ae0a40b177286ea4aadc4, type: 2}
+  - {fileID: 11400000, guid: c5256581180aeab4086767974b8bbbd2, type: 2}
+  - {fileID: 11400000, guid: a12cd8c935684ef47bec3f60f22e4dcb, type: 2}
+  - {fileID: 11400000, guid: f93d1d430a8ff8d4fa32c203a0ebe89a, type: 2}
+  - {fileID: 11400000, guid: c523746c0b30d734bb7b951d1ad1809f, type: 2}
+  - {fileID: 11400000, guid: d0e7cfcb3aff0894780e2b704846ec59, type: 2}
+  - {fileID: 11400000, guid: 24b9232c865b8744e8f14b218f98cb53, type: 2}
+  - {fileID: 11400000, guid: 67cfd05b5c53bb64183f46d9ce675374, type: 2}
+  - {fileID: 11400000, guid: 4440c53789b70fe458a4f9a8ce807d19, type: 2}
+  - {fileID: 11400000, guid: 9f3f46c6b96e8a64c9563d8b158ae06b, type: 2}
+  - {fileID: 11400000, guid: 8e1c11bc9ef15804194fe67be8d35c19, type: 2}
+  - {fileID: 11400000, guid: 281979609084857448bda64e32ae160b, type: 2}
+  - {fileID: 11400000, guid: 8b8835836c4926e4596a5b17b3577b7d, type: 2}
+  - {fileID: 11400000, guid: 975f24ebb8b62ea4fa68965b9f360f03, type: 2}
+  - {fileID: 11400000, guid: 753b4bc23e1372848b3ac0b73df11a35, type: 2}
+  - {fileID: 11400000, guid: fffb50e6c60294249ac7a779b6d34cca, type: 2}
+  _confirmPurchase: 0
+  _purchaseEffectSettings:
+    PlaySoundOnPurchase: 1
+    PlaySoundOnSelectPurchased: 0
+    PlaySoundIfNotEnoughCurrency: 1
+    ShakeIfNotEnoughCurrency: 1
+    PurchaseFailedShakeParameters:
+      ShakeDuration: 0.2
+      Strength: 20
+      Randomness: 90
+      Vibrato: 100
+      Snapping: 0
+      FadeOut: 1
+      ShakeRandomnessMode: 1

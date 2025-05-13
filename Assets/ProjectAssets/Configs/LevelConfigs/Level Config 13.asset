@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43d670661b82f3f4784e8f771328ce8f, type: 3}
+  m_Name: Level Config 13
+  m_EditorClassIdentifier: 
+  LevelPrefab: {fileID: 725821916903939043, guid: 26a0717a068c8a24783f52f2584ab9e4, type: 3}
+  AdditonalPrefab: {fileID: 933390203915380760, guid: 04c08d245d42869488df050604c58176, type: 3}
+  BallsCount: 14

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe7e92bb118b2ee49b0910f1d64d23e7, type: 3}
+  m_Name: RouletteItemsConfig
+  m_EditorClassIdentifier: 
+  RouletteItemModels:
+  - SpawnAmount: 3
+    BaseReward: 5
+    Sprite: {fileID: 21300000, guid: 8743671cdf6a09644960d367f8a64df6, type: 3}
+  - SpawnAmount: 2
+    BaseReward: 50
+    Sprite: {fileID: 21300000, guid: 69f79bdf100f1b744af14445e153d2cc, type: 3}
+  - SpawnAmount: 2
+    BaseReward: 100
+    Sprite: {fileID: 21300000, guid: 49647d6f566e7ef4d8afa4e88146846c, type: 3}
+  - SpawnAmount: 1
+    BaseReward: 300
+    Sprite: {fileID: 21300000, guid: 2ff1e1e2a6f5dc34e8c13a481e6fe827, type: 3}
+  - SpawnAmount: 1
+    BaseReward: 1000
+    Sprite: {fileID: 21300000, guid: 6a79755a5d5972d41914187250ae7b3b, type: 3}

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c4320f438db38c24b9c56c4d7ee14176
+  m_SerializeEntries:
+  - m_GUID: 3c2f50176fd7641408bd7ff4c113fb9b
+    m_Address: UiServiceViewContainer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef849a7ba4b2dd347bb8b0e43096379f
+    m_Address: RouletteItemPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88402fc773e2e3945ba97c5749d8db2a
+    m_Address: InventoryItemDisplay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7af9a82232d42d4a92c029d1dae77f4
+    m_Address: InventoryItemSelectionView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23993fbfd6222b041a6878a0fcb8743c
+    m_Address: LaunchedBallPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae7bf06f072c6524382f5c14d20bdc8c
+    m_Address: GhostBallPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d50445067c92f74bab4003e8c4cd266
+    m_Address: MultiColorBallPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7d752932e8fd48a4dac3e89a2995cf67, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 617378a576784824b83ce96b3130c6a2, type: 2}
+    - {fileID: 11400000, guid: d155c544dc0887a4ea9927a6f3e3479e, type: 2}
