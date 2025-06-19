@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "1040140111158",
+    "project_id": "iosor-50",
+    "storage_bucket": "iosor-50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040140111158:ios:ae32e231d13f8dac127797",
+        "android_client_info": {
+          "package_name": "com.slobodiandev.app"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyACxJMwDQWNne3Cm4dzmxxFHRQbiBmINig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
