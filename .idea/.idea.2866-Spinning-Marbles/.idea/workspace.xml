@@ -21,8 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bcc39416-1682-4df3-b18c-34e370fee3e4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2866-Spinning-Marbles/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2866-Spinning-Marbles/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.2866-Spinning-Marbles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2866-Spinning-Marbles/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/link.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/link.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Octopus/Client/Scripts/Client.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Octopus/Client/Scripts/Client.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Gameplay/Services/UserData/UserDataService.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Gameplay/UI/SimpleButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Octopus/Client/Scripts/Client.cs" />
       </list>
     </option>
   </component>
@@ -81,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747132021518</updated>
       <workItem from="1747132061104" duration="2311000" />
+      <workItem from="1750340101146" duration="5000" />
     </task>
     <servers />
   </component>
@@ -99,6 +102,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

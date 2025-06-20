@@ -33,7 +33,7 @@ MonoBehaviour:
   PostbackApiUrl: coremi.life/ex2wnima34/
   PostbackTrackingIdKey: hn4b96el3h
   PostbackFcmTokenKey: 7232k3wvy5
-  isDebug: 1
+  isDebug: 0
   apiVersion: 14
   codeVersion: LDI_APPS
   useMocInstallReferrer: 0
